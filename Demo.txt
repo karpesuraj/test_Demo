@@ -1,2 +1,2 @@
 Hello Git!
-Secong hello
+Second hello
